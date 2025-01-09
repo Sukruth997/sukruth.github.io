@@ -1,10 +1,10 @@
 # Data Analytics Engineer
 
-###Education
+### Education
 ABC
 
-###Work Exp
+### Work Exp
 ABC
 
-###Projects
+### Projects
 abc
